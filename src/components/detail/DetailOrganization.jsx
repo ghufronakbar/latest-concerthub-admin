@@ -290,7 +290,7 @@ export function DetailOrganization() {
     return (
       <Alert status="warning">
         <AlertIcon />
-        There's no event
+        There&quot;s no event
       </Alert>
     );
   };

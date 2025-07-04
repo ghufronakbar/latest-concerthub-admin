@@ -196,6 +196,7 @@ export function DetailEvent() {
                       boxSize="400"
                       objectFit="cover"
                       src={event.site_plan_image}
+                      alt=""
                     />
                   ) : (
                     <Alert>
