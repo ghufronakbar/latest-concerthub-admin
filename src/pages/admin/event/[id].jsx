@@ -1,5 +1,5 @@
 import { HeadAdmin } from "@/components/HeadAdmin";
-import { DetailEvent } from "@/components/Detail/DetailEvent";
+import { DetailEvent } from "@/components/detail/DetailEvent";
 import { Container, Flex } from "@chakra-ui/react";
 import Event from ".";
 import { withAuth } from "@/lib/authorization";
